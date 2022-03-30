@@ -47,5 +47,3 @@ result = 13
 # output
 #   [0,2]
 
-
-
